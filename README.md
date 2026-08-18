@@ -46,3 +46,6 @@ Each expense contains:
 5. Delete Expense
 6. Exit
 ``` 
+## Author
+**Shivpratiksha Hande**`
+
